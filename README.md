@@ -15,8 +15,7 @@ Two different controls have been uploaded:
 
 Z-Axis rotation will be added soon.\
 \
-**Hardware**\
-\
+**Hardware**
 - 3, 25kg 6.8v Servo
 - Arduino Uno
 - PCA9685
