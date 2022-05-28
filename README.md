@@ -1,7 +1,6 @@
 # RobotArm
 This is a design and build of a robotic arm\
 \
-Arm segements, gripper and base were 3D printed\
 \
 GCode for 3d prints: [HERE](https://github.com/NiMez/RobotArm/tree/main/GCode).\
 Model: [HERE](https://github.com/NiMez/RobotArm/tree/main/Model).\
