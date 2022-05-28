@@ -10,7 +10,7 @@ Two different controls have been uploaded:
 - Inverse Kinematic Loop. A loop picking up and dropping a ball in straight lines relative to the gripper.
 - Servo control from potentiometer.
 
-<img src="https://github.com/NiMez/RobotArm/blob/main/Images/PXL_20220528_235018135.jpg" width="100" height="100">
+<img src="https://github.com/NiMez/RobotArm/blob/main/Images/PXL_20220528_235018135.jpg" width="400" height="400">
 
 
 Z-Axis rotation will be added soon.
