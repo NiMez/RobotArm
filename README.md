@@ -10,6 +10,9 @@ Two different controls have been uploaded:
 - Inverse Kinematic Loop. A loop picking up and dropping a ball in straight lines relative to the gripper.
 - Servo control from potentiometer.
 
+<img src="https://your-image-url.type" width="100" height="100">
+
+
 Z-Axis rotation will be added soon.
 
 
