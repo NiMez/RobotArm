@@ -7,7 +7,9 @@ GCode for 3d prints: [HERE](https://github.com/NiMez/RobotArm/tree/main/GCode).\
 Model: [HERE](https://github.com/NiMez/RobotArm/tree/main/Model).\
 \
 Two different controls have been uploaded\
-
+- Inverse Kinematic Loop. A loop picking up and dropping a ball in straight lines relative to the gripper.
+- Servo control from potentiometer
+\
 Z-Axis rotation will be added soon\
-Arduino code included for inverse kinematic control of the robotic arm based on arm dimensions.\
+
 
