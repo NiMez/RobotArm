@@ -2,7 +2,7 @@
 This is a design and build of a robotic arm\
 \
 \
-GCode for 3d prints: [HERE](https://github.com/NiMez/RobotArm/tree/main/GCode).\
+GCode for 3D prints: [HERE](https://github.com/NiMez/RobotArm/tree/main/GCode).\
 Model: [HERE](https://github.com/NiMez/RobotArm/tree/main/Model).\
 \
 Two different controls have been uploaded:
