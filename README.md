@@ -10,6 +10,9 @@ Two different controls have been uploaded:
 - Servo control from potentiometer.
 
 <img src="https://github.com/NiMez/RobotArm/blob/main/Images/PXL_20220528_235018135.jpg" width="400" height="400">
+<img src="https://github.com/NiMez/RobotArm/blob/main/Images/PXL_20220529_170511126.jpg" width="400" height="400">
+<img src="https://github.com/NiMez/RobotArm/blob/main/Images/PXL_20220529_170450992.jpg" width="400" height="400">
+<img src="https://github.com/NiMez/RobotArm/blob/main/Images/PXL_20220529_170412402.jpg" width="400" height="400">
 
 
 Z-Axis rotation will be added soon.\
